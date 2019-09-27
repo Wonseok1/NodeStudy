@@ -7,6 +7,6 @@ setInterval(()=>{
 },1000);
 
 setTimeout(()=>{
-    console.log('실행되빈다.');
+    console.log('실행됩니다.');
 
 },2000);
